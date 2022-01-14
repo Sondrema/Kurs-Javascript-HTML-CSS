@@ -1,1 +1,1 @@
-# hjemmeside2
+# Nybegynnerkurs i Javascript, CSS og HTML
